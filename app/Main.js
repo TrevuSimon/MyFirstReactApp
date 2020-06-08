@@ -2,9 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 
-const useState = React.useState;
-const useEffect = React.useEffect;
-
 //My Components
 import Header from "./components/Header";
 import HomeGuest from "./components/HomeGuest";
